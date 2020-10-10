@@ -1,0 +1,1 @@
+Just writing simple discord bots over the weekends to combat COVID boredom and mess around with my friend's discord channels! :)
